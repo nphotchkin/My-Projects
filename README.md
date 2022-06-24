@@ -1,23 +1,18 @@
 # My-Projects
 
-<img src="https://user-images.githubusercontent.com/15834648/175575643-553cf548-6eda-4c92-9bb3-ef7a6fd168ed.png" 
+<img src="https://user-images.githubusercontent.com/15834648/175621591-2b585172-99a2-4c36-9dd6-3eb1cee8e815.png" 
  alt="banner" 
  width="200"/>
- 
-##### A list of all my repositories and their purpose
 
-<br/>
+##### A list of all my repositories and their purpose
 
 ## Contents
  - 🌌 [Kick Starters](#kick-starters)
  - 👔 [Business Problems](#business-problems)
 
-<br/>
-<br/>
-
 <hr>
 
-### Kick Starters
+#### Kick Starters
 > 🌌 
 > 
 > Generic projects that solve some common development task, which can easily be re-purposed to solve a real world problem.
@@ -28,9 +23,9 @@
 
 
 <br/>
-<br/>
+<hr>
 
-### Business Problems
+#### Business Problems
 > 👔
 > 
 > Larger projects that demonstrate some common business problem with a sample solution.
