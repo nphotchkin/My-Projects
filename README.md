@@ -36,18 +36,18 @@
 
 | Project | Description |
 | ----------- | ----------- |
-| ❌ [State Management](https://spring.io/projects/spring-statemachine) | Demonstrate Finite State Machines for state management. |
+| ❌ [Open Feign Micro Meter Metrics](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/#feign-metrics) | |
+| ❌ [ETL's With JobRunr](https://www.jobrunr.io/en) | Demonstrate a ETL at scale |
 | ❌ [Spring Integration](https://spring.io/projects/spring-integration#learn) | |
+| ❌ [Prometheus -> Graphana](https://prometheus.io/docs/visualization/grafana/) | |
+| ❌ [State Management](https://spring.io/projects/spring-statemachine) | Demonstrate Finite State Machines for state management. |
+| ❌ [Drools - BRM](https://www.drools.org/) | |
 | ❌ [Kafka](https://kafka.apache.org) | |
 | ❌ [BPM](https://www.flowable.com/) | Demonstrate a business process with sign-offs that kick off processes using flowable. |
 | ❌ [Docusign](https://go.docusign.com) | Demonstrate automated signatory process combine with flowable. |
-| ❌ [ETL's With JobRunr](https://www.jobrunr.io/en) | Demonstrate a ETL at scale |
 | ❌ [Project Reactor](https://projectreactor.io) | Demonstrate a non blocking web app with reactor |
-| ❌ [Drools - BRM](https://www.drools.org/) | |
 | ❌ Server Sent Events | |
 | ❌ MongoDb Change Streams | |
-| ❌ [Open Feign Micro Meter Metrics](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/#feign-metrics) | |
 | ❌ [RSocket](https://rsocket.io/) | |
 | ❌ [togglz](https://www.togglz.org) | | 
-| ❌ [Prometheus -> Graphana](https://prometheus.io/docs/visualization/grafana/) | |
 | ❌ [jasper](https://community.jaspersoft.com/project/jasperreports-library) | |
