@@ -7,19 +7,19 @@
 ##### A list of all my repositories and their purpose
 
 ## Contents
- - 🌌 [Kick Starters](#kick-starters)
+ - 🌌 [Kick-Starters](#kick-starters)
  - 👔 [Business Problems](#business-problems)
 
 <hr>
 
-#### Kick Starters
+#### Kick-Starters
 > 🌌 
 > 
 > Generic projects that solve some common development task, which can easily be re-purposed to solve a real world problem.
 
 | Project | Description |
 | ----------- | ----------- |
-| [Fault Tollerant Rest Clients](https://github.com/nphotchkin/Fault-Tollerant-Rest-Client) |  When integrating with 3rd parties, Rest Clients should be fault-tolerant as to not overwhelm down downstream services and be resilient against network instability.|
+| [Fault Tolerant  Rest Clients](https://github.com/nphotchkin/Fault-Tollerant-Rest-Client) |  When integrating with 3rd parties, Rest Clients should be fault-tolerant as to not overwhelm down downstream services and be resilient against network instability.|
 
 
 <br/>
