@@ -41,8 +41,11 @@
 | ❌ [Contracting](https://go.docusign.com) | Demonstrate automated contract generation combine with flowable. |
 | ❌ [ETL's With JobRunr](https://www.jobrunr.io/en) | Demonstrate a ETL at scale |
 | ❌ [Project Reactor](https://projectreactor.io) | Demonstrate a non blocking web app with reactor |
+| ❌ [Drools - BRM](https://www.drools.org/) | |
 | ❌ Server Sent Events | |
 | ❌ MongoDb Change Streams | |
+| ❌ [Open Feign Micro Meter Metrics](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/#feign-metrics) | |
 | ❌ [RSocket](https://rsocket.io/) | |
 | ❌ [togglz](https://www.togglz.org) | | 
-| ❌ [Drools - BRM](https://www.drools.org/) | |
+| ❌ [Prometheus -> Graphana](https://prometheus.io/docs/visualization/grafana/) | |
+| ❌ [jasper](https://community.jaspersoft.com/project/jasperreports-library) | |
