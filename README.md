@@ -37,8 +37,10 @@
 | Project | Description |
 | ----------- | ----------- |
 | ❌ [State Management](https://spring.io/projects/spring-statemachine) | Demonstrate Finite State Machines for state management. |
+| ❌ [Spring Integration](https://spring.io/projects/spring-integration#learn) | |
+| ❌ [Kafka](https://kafka.apache.org) | |
 | ❌ [BPM](https://www.flowable.com/) | Demonstrate a business process with sign-offs that kick off processes using flowable. |
-| ❌ [Contracting](https://go.docusign.com) | Demonstrate automated contract generation combine with flowable. |
+| ❌ [Docusign](https://go.docusign.com) | Demonstrate automated signatory process combine with flowable. |
 | ❌ [ETL's With JobRunr](https://www.jobrunr.io/en) | Demonstrate a ETL at scale |
 | ❌ [Project Reactor](https://projectreactor.io) | Demonstrate a non blocking web app with reactor |
 | ❌ [Drools - BRM](https://www.drools.org/) | |
