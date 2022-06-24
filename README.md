@@ -21,7 +21,6 @@
 | ----------- | ----------- |
 | [Fault Tolerant  Rest Clients](https://github.com/nphotchkin/Fault-Tollerant-Rest-Client) |  When integrating with 3rd parties, Rest Clients should be friendly & fault-tolerant as to not overwhelm down downstream services and be resilient against network instability.|
 
-
 <br/>
 <hr>
 
@@ -29,3 +28,19 @@
 > 👔
 > 
 > Larger projects that demonstrate some common business problem with a sample solution.
+
+<br/>
+<hr>
+
+##### Tech to Investigate
+
+| Project | Description |
+| ----------- | ----------- |
+| ❌ [State Management](https://spring.io/projects/spring-statemachine) | Demonstrate Finite State Machines for state management. |
+| ❌ [BPM](https://www.flowable.com/) | Demonstrate a business process with sign-offs that kick off processes using flowable. |
+| ❌ [Contracting](https://go.docusign.com) | Demonstrate automated contract generation combine with flowable. |
+| ❌ [ETL's With JobRunr](https://www.jobrunr.io/en) | Demonstrate a ETL at scale |
+| ❌ [Project Reactor](https://projectreactor.io) | Demonstrate a non blocking web app with reactor |
+| ❌ Server Sent Events | |
+| ❌ MongoDb Change Streams | |
+| ❌ [RSocket](https://rsocket.io/) | |
