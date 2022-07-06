@@ -16,7 +16,7 @@
 #### For Fun
 > 🤠 
 > 
-> My Open source projects that are based on my hobbies or do something I wanted but costs money or didn't exist as far as I can tell.
+> My Open source projects that are based on my hobbies, something I wanted but costs money or didn't exist as far as I can tell.
 
 | Project | Description |
 | ----------- | ----------- |
