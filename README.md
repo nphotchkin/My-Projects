@@ -7,9 +7,22 @@
 ##### A list of all my repositories and their purpose
 
 ## Contents
+ - 🤠 [For-Fun](#for-fun)
  - 🌌 [Kick-Starters](#kick-starters)
  - 👔 [Business Problems](#business-problems)
 
+<hr>
+
+#### For Fun
+> 🤠 
+> 
+> My Open source projects that are based on my hobbies or do something I wanted but costs money or didn't exist as far as I can tell.
+
+| Project | Description |
+| ----------- | ----------- |
+|[TypeLang.app](https://github.com/nphotchkin/TypeLang.app) | TypeLang is a straight forward language learning app for Typist's - Open Source & Always Free |
+
+<br/>
 <hr>
 
 #### Kick-Starters
