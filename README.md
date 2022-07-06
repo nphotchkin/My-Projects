@@ -21,6 +21,7 @@
 | Project | Description |
 | ----------- | ----------- |
 |[TypeLang.app](https://github.com/nphotchkin/TypeLang.app) | TypeLang is a straight forward language learning app for Typist's - Open Source & Always Free |
+|[Java Productivity](https://github.com/nphotchkin/Java-Productivity) | My evolving list of things that make me more productive for Java based projects. |
 
 <br/>
 <hr>
