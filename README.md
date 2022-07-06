@@ -19,7 +19,7 @@
 
 | Project | Description |
 | ----------- | ----------- |
-| [Fault Tolerant  Rest Clients](https://github.com/nphotchkin/Fault-Tollerant-Rest-Client) |  When integrating with 3rd parties, Rest Clients should be friendly & fault-tolerant as to not overwhelm down downstream services and be resilient against network instability.|
+|🚧[Fault Tolerant  Rest Clients](https://github.com/nphotchkin/Fault-Tollerant-Rest-Client) |  When integrating with 3rd parties, Rest Clients should be friendly & fault-tolerant as to not overwhelm down downstream services and be resilient against network instability.|
 
 <br/>
 <hr>
