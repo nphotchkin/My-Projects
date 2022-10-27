@@ -66,3 +66,7 @@
 | ❌ [RSocket](https://rsocket.io/) | |
 | ❌ [togglz](https://www.togglz.org) | | 
 | ❌ [jasper](https://community.jaspersoft.com/project/jasperreports-library) | |
+| ❌ [SSE](https://www.linkedin.com/pulse/server-sent-events-sse-spring-boot-aliaksandr-liakh) | Server Sent Events in Spring for notifications |
+
+
+
