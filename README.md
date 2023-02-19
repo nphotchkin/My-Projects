@@ -4,7 +4,7 @@
  alt="banner" 
  width="200"/>
 
-##### A list of all my repositories and their purpose
+##### A list of all my public repositories and their purpose.
 
 ## Contents
  - 🤠 [For-Fun](#for-fun)
