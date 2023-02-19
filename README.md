@@ -34,7 +34,6 @@
 
 | Project | Description |
 | ----------- | ----------- |
-|🚧[Fault Tolerant  Rest Clients](https://github.com/nphotchkin/Fault-Tollerant-Rest-Client) |  When integrating with 3rd parties, Rest Clients should be friendly & fault-tolerant as to not overwhelm down downstream services and be resilient against network instability.|
 
 <br/>
 <hr>
@@ -67,6 +66,8 @@
 | ❌ [togglz](https://www.togglz.org) | | 
 | ❌ [jasper](https://community.jaspersoft.com/project/jasperreports-library) | |
 | ❌ [SSE](https://www.linkedin.com/pulse/server-sent-events-sse-spring-boot-aliaksandr-liakh) | Server Sent Events in Spring for notifications |
+| ❌ Fault Tolerant  Rest Clients |  When integrating with 3rd parties, Rest Clients should be friendly & fault-tolerant as to not overwhelm down downstream services and be resilient against network instability.|
+
 
 
 
