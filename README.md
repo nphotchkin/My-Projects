@@ -32,9 +32,6 @@
 > 
 > Generic projects that solve some common development task, which can easily be re-purposed to solve a real world problem.
 
-| Project | Description |
-| ----------- | ----------- |
-
 <br/>
 <hr>
 
