@@ -47,6 +47,7 @@
 
 | Project | Description |
 | ----------- | ----------- |
+| ❌ Astro + Pocket Base + Solid JS | |
 | ❌ [Open Feign Micro Meter Metrics](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/#feign-metrics) | |
 | ❌ [ETL's With JobRunr](https://www.jobrunr.io/en) | Demonstrate a ETL at scale |
 | ❌ [Spring Integration](https://spring.io/projects/spring-integration#learn) | |
